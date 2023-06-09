@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Xyrus
+ *
+ */
+module Checkers {
+}
